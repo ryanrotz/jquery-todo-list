@@ -1,0 +1,14 @@
+
+body {
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+}
+
+.remove {
+  color: blue;
+  text-decoration: underline;
+  font-style: italic;
+}
